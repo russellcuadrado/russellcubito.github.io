@@ -1,0 +1,107 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+       <title>Examen unidad 1 bim 3</title>
+       <meta charset="utf-8">
+      
+  </head>
+  <body id="inicio">
+    <img id="photo" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/G_LOGO.png" alt="Good Health" width="70"> 
+    <h1 id="Logo">ood Health</h1>
+    
+    <div id="navegador" class="Navegador">
+<ul>
+<li><a href="https://russellcuadrado.github.io/#">Inicio</a></li>
+<li><a href="#">Protocolos</a></li>
+<li><a href="#">Vacunación</a></li>
+</ul>
+</div>
+    
+    <h2 id="logo">Protocolos de bioseguridad contra el <span class="importante">COVID-19</span></h2>
+    
+    <p>Este último año hemos pasado muchas cosas, la pandemia del virus <span class="importante">COVID-19,</span> nos hemos tenido que encerrar en cuarentena para evitar este terrible virus. Al día de hoy la situación está mejorando, y ya con la vuelta a clases presenciales, recuerda de seguir estos protocolos para cuidarte a ti y a los demás.</p>
+    
+    <div class="protocolos">
+      <ul>
+      <li><a href="#lavarse-manos">Lavarse las manos</a></li>
+      <li><a href="#distanciamiento">Distanciamiento social de más de 1 metro</a></li>
+      <li><a href="#alcohol">Desinfectarse las manos con alcohol en gel</a></li>
+      <li><a href="#Desinfectar-area">Desinfectar área de trabajo o área de mucho contacto</a></li>
+      <li><a href="#mascarilla">Uso correcto de la mascarilla</a></li>
+      <li><a href="#careta">Uso correcto de la careta</a></li>
+      <li><a href="#Desisnfectar-zapatos">Desisnfectarse la suela de los zapatos</a></li>
+      <li><a href="#temperatura">Tomarse la temperatura y chequear que este debajo de los 37.6°C</a></li>
+      <li><a href="#codo">Saludar con el codo</a></li> 
+      <li><a href="#aislarse">Si presenta sintomas, aislarse y hacerse la prueba</a></li>
+      </ul></div>
+    
+    
+      <div class="pro"> <h2 id="lavarse-manos">Lavarse las manos</h2>
+    
+        <p>Siempre lavarse las manos al tocar cualquier superficie es una buena forma de evitar el contagio. La duración del lavado de manos se puede medir cantando la canción de "Feliz Cumpleaños".</p>
+        <img src="https://tevafarmacia.es/sites/default/files/styles/social_watermark/public/tv-post-images/2020-03/C%C3%B3mo%20lavarse%20las%20manos%20para%20prevenir%20enfermedades_0.jpg?itok=6R3pcNry" width="250px" alt="Lavarse las manos"> 
+      
+     <h2 id="distanciamiento">Distanciamiento social de más de 1.8 metros</h2>    
+      <p>Mantener el distanciamiento es para evitar el contacto con otras personas que no sabemos si están contagiadas o no</p>
+        <img src="https://stjude.scene7.com/is/image/stjude/covid-social-distancing-spanish?fit=crop,1&fmt=png-alpha&wid=1200" width="250px" alt="distanciamiento"> 
+        
+    <h2 id="alcohol">Desinfectarse las manos con alcohol en gel</h2>
+        
+      <p>El alcohol en gel, ayuda a eliminar un porcentaje alto de las bacterias en las manos.</p>
+        <img src="https://elements-video-cover-images-0.imgix.net/files/3f2db6f0-318a-4e80-aee8-579ebf0e9fd8/inline_image_preview.jpg?auto=compress%2Cformat&fit=min&h=394&w=700&s=b4cc8b59e78dcf9f4bf29abe2f313102" width="250px" alt="aplicar alcohol en gel"> 
+        
+      <h2 id="Desinfectar-area">Desinfectar área de trabajo o área de mucho contacto</h2>
+        
+   <p>Desinfectar el área de trabajo, más ahora con la vuelta de las clases presenciales, es algo fundamental para que los virus y bacterias que pudieran estar allí desaparezcan en vez de irse contigo.</p>  
+        <img src="https://gestarsalud.com/wp-content/uploads/2020/06/alcohol.png" width="250px" alt="Desinfectar área"> 
+        
+      <h2 id="mascarilla">Uso correcto de la mascarilla</h2>
+        
+  <p><span class="importante">La mascarilla es lo más fundamental</span> hoy en día. Con ellas nos protegeremos a nosotros de cualquier virus y a los demás al mismo tiempo.</p>
+        <img src="https://www.cdc.gov/coronavirus/2019-ncov/images/your-health/masks/do-choose-masks_1-medium.png" width="250px" alt="uso de mascarilla"> 
+        
+      <h2 id="careta">Uso correcto de la careta</h2>
+        
+        <p>Al igual que con la mascarilla, la careta es algo importante. No es como obligatorio como la mascarilla, pero si es recomendable llevar puesta una careta.</p>
+        <img src="https://image.freepik.com/vector-gratis/careta-como-usar-careta-adecuada-cuando-usa-mascara_68708-918.jpg" width="250px" alt="Uso de careta"> 
+        
+      <h2 id="Desisnfectar-zapatos">Desisnfectarse la suela de los zapatos</h2>
+        
+        <p>Esto se hace para eliminar todas las bacterias y virus que pueden haber en nuestras suelas.</p>
+        <img src="https://image.freepik.com/vector-gratis/ilustracion-azul-concepto-esterilla-desinfectante_23-2148699395.jpg" width="250px" alt="Desisfectar zapatos"> 
+        
+      <h2 id="temperatura">Tomarse la temperatura y chequear que este debajo de los 37.6°C</h2>
+        
+        <p>La temperatura normal del cuerpo en promedio está en los 36° y los 37°, al estar en temperaturas arriba de 38° debe ser considerable como fiebre.</p>
+        <img src="https://media.istockphoto.com/vectors/vector-of-a-man-hand-with-scanner-measuring-body-temperature-of-a-on-vector-id1226755469?k=6&m=1226755469&s=612x612&w=0&h=S8kgpsl8vh-1lARd96xYjcdHkkhwHTqHY6BGhQxQ8N8=" width="250px" alt="Tomar temperatura"> 
+        
+      <h2 id="codo">Saludar con el codo</h2>
+        
+    <p>Hay que tratar de evitar el mayor contacto posible, si va a saludar a alguien que sea con el codo para evitar traspasar los virus que puedes tener en tus manos.</p> 
+        <img src="https://img.freepik.com/vector-gratis/personas-saludan-golpe-codo-prevenir-infeccion-covid-19_37732-360.jpg?size=626&ext=jpg" width="250px" alt="Saludo de codo"> 
+        
+  <h2 id="aislarse">Si presenta sintomas, aislarse y hacerse la prueba</h2>
+        
+    <p>Hay que recordar que estos protocolos no le hacen inmune a uno. Si siente algún sintoma como dolor de cabeza, fiebre, etc. No dude en aislarse por precaución e irse a hacerse la prueba.<br>
+      <img src="https://www.igssgt.org/wp-content/uploads/2020/05/Banner-guia-de-recomendaciones-para-pacientes-en-aislamiento.jpg" width="250px" alt="aislamiento"> </p></div>
+ 
+    
+<p><strong>Le pedimos que se cuide, porque es la única forma de cuidar a los demás.</strong></p> 
+    <br><p><em>Source: <a href="https://www.mspas.gob.gt/covid-19/coronavirus-2019-ncov.html">Más información sobre los protocolos</a></em></p>
+ <footer id="footer" class="dark1">
+	<div class="container-fluid">
+    	<div class="row">
+        	<div class="col-md-12">
+            	<div class="footer-content clearfix">
+					<p class="footer-text">Copyright © Good Health 2021 All rights reserved.</p>
+                	                </div>
+				     		</div>
+        </div>
+    </div>
+<div class="usertour">
+    <a href="#" data-action="tool_usertours/resetpagetour" id="final">Reiniciar tour para usuario en esta página</a>
+</div></footer>   
+    
+   
+</body>
+</html>
